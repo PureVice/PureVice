@@ -17,6 +17,6 @@
 ## 🔗 Conecte-se comigo
 
 <p align="left">
-<a href="www.linkedin.com/in/vitor-hugo-dias-santos-2b2b7327b" target="_blank">
+<a href="https://www.linkedin.com/in/vitor-hugo-dias-santos-2b2b7327b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
