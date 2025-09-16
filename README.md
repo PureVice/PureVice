@@ -13,3 +13,10 @@
 
 [![Estatísticas do GitHub de Vitor](https://github-readme-stats.vercel.app/api?username=PureVice&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PureVice&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔗 Conecte-se comigo
+
+<p align="left">
+<a href="www.linkedin.com/in/vitor-hugo-dias-santos-2b2b7327b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
