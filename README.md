@@ -1,16 +1,15 @@
-## Hi there 👋
+## Saudações, eu sou o Vitor Hugo 👋
 
-<!--
-**PureVice/PureVice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente atuo como bolsista em tecnologia na UFMG;
+- 🌱 Estou aprimorando meus conhecimentos sobre Algoritmos e Estruturas de Dados;
+- ⚡ Tenho grande interesse pelas áreas de IA e Engenharia de Dados; 
+- 📫 email para contato: vhugosantos2025@gmail.com;
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,python,flask,mysql,postgres,git,github,ubuntu)
+
+## 📊 Estatísticas do GitHub
+
+[![Estatísticas do GitHub de Vitor](https://github-readme-stats.vercel.app/api?username=PureVice&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PureVice&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
